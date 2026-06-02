@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collegeReport campus="NIET" semester="Spring 2026">
+    <department>Computer Science and Engineering</department>
+    <preparedBy>Automation Cell</preparedBy>
+    <students>
+        <student id="NIET001">
+            <name>Aarav Sharma</name>
+            <course>B.Tech CSE</course>
+            <attendance>94%</attendance>
+            <marks>88</marks>
+            <status>Pass</status>
+        </student>
+        <student id="NIET002">
+            <name>Meera Singh</name>
+            <course>B.Tech CSE</course>
+            <attendance>91%</attendance>
+            <marks>92</marks>
+            <status>Pass</status>
+        </student>
+        <student id="NIET003">
+            <name>Kabir Verma</name>
+            <course>B.Tech IT</course>
+            <attendance>83%</attendance>
+            <marks>76</marks>
+            <status>Pass</status>
+        </student>
+    </students>
+    <faculty>
+        <member>
+            <name>Dr. R. Menon</name>
+            <subject>Data Structures</subject>
+            <classesTaken>42</classesTaken>
+        </member>
+        <member>
+            <name>Prof. S. Kapoor</name>
+            <subject>Web Technology</subject>
+            <classesTaken>39</classesTaken>
+        </member>
+    </faculty>
+</collegeReport>
+
